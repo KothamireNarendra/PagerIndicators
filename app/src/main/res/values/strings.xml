@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PagerIndicators</string>
+    <string name="horiz_pager_with_indicator_title">Pager</string>
+</resources>
