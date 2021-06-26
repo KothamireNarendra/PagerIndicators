@@ -8,7 +8,6 @@ import androidx.compose.material.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.tooling.preview.Preview
 import com.techguynarendra.pagerindicators.ui.theme.PagerIndicatorsTheme
-import com.techguynarendra.pagerindicators.ui.theme.Sample
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
